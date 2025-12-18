@@ -8,10 +8,6 @@ Singleplayer platformer game made with GDScript from the Godot Game Engine, feat
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Controls](#controls)
-- [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Credits](#credits)
 
 ---

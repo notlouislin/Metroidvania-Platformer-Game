@@ -1,6 +1,6 @@
 # Metroidvania Platformer Game
 
-Singleplayer platformer game made with0GDScript1from the Godot Game Engine, featuring enemies, environmental interactions, and sprite animations.
+Singleplayer platformer game made with GDScript from the Godot Game Engine, featuring enemies, environmental interactions, and sprite animations.
 
 ## Table of Contents
 
@@ -8,10 +8,6 @@ Singleplayer platformer game made with0GDScript1from the Godot Game Engine, fe
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Controls](#controls)
-- [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Credits](#credits)
 
 ---
